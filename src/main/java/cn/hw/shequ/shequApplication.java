@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class shequApplication {
     public static void main(String[] args) {
         SpringApplication.run(shequApplication.class, args);
+        System.out.println("test");
     }
 
 }
