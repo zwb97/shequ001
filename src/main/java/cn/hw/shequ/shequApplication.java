@@ -8,6 +8,7 @@ public class shequApplication {
     public static void main(String[] args) {
         SpringApplication.run(shequApplication.class, args);
         System.out.println("test");
+        System.out.println("test001");
     }
 
 }
